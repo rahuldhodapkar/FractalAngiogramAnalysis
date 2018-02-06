@@ -1,0 +1,8 @@
+# Editor artifacts
+
+*.swp
+*.swo
+
+# macOS artifacts
+
+.DS_Store
